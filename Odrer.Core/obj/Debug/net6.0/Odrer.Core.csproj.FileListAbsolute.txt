@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\bin\Debug\net6.0\Odrer.Core.deps.json
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\bin\Debug\net6.0\Odrer.Core.dll
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\bin\Debug\net6.0\Odrer.Core.pdb
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\Odrer.Core.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\Odrer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\Odrer.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\Odrer.Core.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\Odrer.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\Odrer.Core.dll
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\refint\Odrer.Core.dll
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\Odrer.Core.pdb
+C:\Users\lenovo\source\repos\Order Solution\Odrer.Core\obj\Debug\net6.0\ref\Odrer.Core.dll
